@@ -6,8 +6,8 @@ A simple Arduino project that controls two servo motors in opposite directions �
 ---
 
 ## 📁 Files Included
-- `dual_servo.ino` → Arduino sketch controlling both servos  
-- `circuit_diagram.png` → Wiring diagram showing how to connect the servos
+dual_servo.ino → Arduino sketch that controls two servo motors in opposite directions
+project_screenshot.png → Screenshot showing the physical setup of the project on a breadboard
 
 ---
 
@@ -31,11 +31,11 @@ Both move smoothly in opposite directions.
 
 ## 🧠 Tools & Tech Stack
 
-- Arduino Uno (or compatible board)  
-- Servo motors (e.g., SG90)  
-- Arduino IDE  
+- Arduino Uno 
+- Servo motors (e.g., SG90)
+- Breadboard
 - C++ (Arduino language)
 
 ---
 
-🎨 Designed by [Your Name]
+🎨 Designed by Aryam
